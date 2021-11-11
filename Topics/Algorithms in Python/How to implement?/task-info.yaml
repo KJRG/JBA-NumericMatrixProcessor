@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def prod(first, second):
+        ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15377#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 09 Nov 2021 19:52:19 UTC
+record: -1
